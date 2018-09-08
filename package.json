@@ -1,0 +1,11 @@
+{
+  "name": "transparent-nav",
+  "version": "1.0.0",
+  "description": "Transparent-Navbar, Powered By: Eugen C. Vladoi",
+  "main": "index.js",
+  "scripts": {
+    "nav": "node-sass -w scss/ -o public/css/ --recursive"
+  },
+  "author": "Eugen C. Vladoi",
+  "license": "MIT"
+}
